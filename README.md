@@ -6,17 +6,17 @@ A clean, professional portfolio website for **Abeer Ghafoor**, Senior Auditor at
 
 🔗 **Live Demo:** https://abeerghafoor.netlify.app/
 
-## ✨ Features
+##  Features
 
-- **📱 Fully Responsive** - Works perfectly on laptops, tablets, and mobile devices
-- **🎨 Professional Design** - Clean corporate aesthetic with gold accent colors
-- **📋 Experience Showcase** - Detailed work history with icons and skill tags
-- **🔗 Clickable Contact Info** - Email and phone links with modal popup
-- **🧭 Smooth Navigation** - Sticky header with section links
-- **⚡ Fast Loading** - Optimized CSS and vanilla JavaScript
+- **Fully Responsive** - Works perfectly on laptops, tablets, and mobile devices
+- **Professional Design** - Clean corporate aesthetic with gold accent colors
+- **Experience Showcase** - Detailed work history with icons and skill tags
+- **Clickable Contact Info** - Email and phone links with modal popup
+- **Smooth Navigation** - Sticky header with section links
+- **Fast Loading** - Optimized CSS and vanilla JavaScript
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** - Semantic structure
 - **CSS3** - Flexbox, Grid, custom properties, responsive queries
@@ -25,7 +25,7 @@ A clean, professional portfolio website for **Abeer Ghafoor**, Senior Auditor at
 - **Google Fonts** - Inter & Playfair Display typography
 
 
-## 📂 Project Structure
+## Project Structure
 abeer-ghafoor-portfolio/
 │
 ├── index.html # Main HTML file
